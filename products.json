@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 200,
+    "thumbnail": "http://example.com/producto1.png",
+    "code": "DEF456",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 200,
+    "thumbnail": "http://example.com/producto2.png",
+    "code": "DEF456",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "Descripción del producto 3",
+    "price": 300,
+    "thumbnail": "http://example.com/producto3.png",
+    "code": "GHI789",
+    "stock": 30,
+    "id": 3
+  },
+
+  {
+    "title": "Producto 4",
+    "description": "Descripción del producto 4",
+    "price": 400,
+    "thumbnail": "http://example.com/producto4.png",
+    "code": "JKL123",
+    "stock": 40,
+    "id": 4
+  },
+  {
+    "title": "Producto 5",
+    "description": "Descripción del producto 5",
+    "price": 500,
+    "thumbnail": "http://example.com/producto5.png",
+    "code": "MNO456",
+    "stock": 50,
+    "id": 5
+  },
+  {
+    "title": "Producto 6",
+    "description": "Descripción del producto 6",
+    "price": 600,
+    "thumbnail": "http://example.com/producto6.png",
+    "codigo": "PQR789",
+    "stock": 60,
+    "id": 6
+  },
+  {
+    "title": "Producto 7",
+    "description": "Descripción del producto 7",
+    "price": 700,
+    "thumbnail": "http://example.com/producto7.png",
+    "codigo": "STU123",
+    "stock": 70,
+    "id": 7
+  },
+  {
+    "title": "Producto 8",
+    "description": "Descripción del producto 8",
+    "price": 800,
+    "thumbnail": "http://example.com/producto8.png",
+    "codigo": "VWX456",
+    "stock": 80,
+    "id": 8
+  },
+  {
+    "title": "Producto 9",
+    "description": "Descripción del producto 9",
+    "price": 900,
+    "thumbnail": "http://example.com/producto9.png",
+    "codigo": "YZA789",
+    "stock": 90,
+    "id": 9
+  },
+  {
+    "title": "Producto 10",
+    "description": "Descripción del producto 10",
+    "price": 1000,
+    "thumbnail": "http://example.com/producto10.png",
+    "codigo": "BCD123",
+    "stock": 100,
+    "id": 10
+  }
+]
